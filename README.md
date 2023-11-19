@@ -18,7 +18,8 @@
 **Стартові параметри для даної лабораторної роботи такі:**
 
 </div>
-Я візуалізував 5 об'єктів: _Куб_, _сфера_, _капсула_, _corrugated sphere with texture_ та _corrugated sphere без текстури_
+Я візуалізував 5 об'єктів: *Куб*, *сфера*, *капсула*, *corrugated sphere with texture* та *corrugated sphere без текстури*
+
 
 Eye separation: 1f (змінюється від 0f(float) -> 5f(float)) - Визначає відстань між очима у ефекті анагліфа 
 
