@@ -56,11 +56,12 @@ Convergence distance: 1f (змінюється від 0f(float) -> 10f(float)) -
 
 </div>
 
-![mob1](https://github.com/Vlad-vt/PA1/assets/65038865/8484018f-cbc9-401b-90a8-53125d7c8024)
-![mob2](https://github.com/Vlad-vt/PA1/assets/65038865/c4f35aed-9e8b-4406-b2d5-8fccf7742dfd)
-![mob3](https://github.com/Vlad-vt/PA1/assets/65038865/9a3dd023-5aaf-4165-a94f-e8bf1cec41a9)
-![mob4](https://github.com/Vlad-vt/PA1/assets/65038865/4b7e6ee8-c86f-4f34-9f88-cdf77023993d)
-![mob5](https://github.com/Vlad-vt/PA1/assets/65038865/64432bf2-e30d-4b64-b72d-acbb73936afd)
+![mob1](https://github.com/Vlad-vt/PA1/assets/65038865/9c8d636b-6074-45db-b987-afafbe09a2b1)
+![mob2](https://github.com/Vlad-vt/PA1/assets/65038865/82e0d2dd-37af-480c-8c3f-ee50ad7d178c)
+![mob3](https://github.com/Vlad-vt/PA1/assets/65038865/40271da3-ad60-4eac-b81c-d6d14210774a)
+![mob4](https://github.com/Vlad-vt/PA1/assets/65038865/3b5f33f2-0cb8-4e6a-97c6-80e124b47d18)
+![mob5](https://github.com/Vlad-vt/PA1/assets/65038865/f378a31d-9db7-4fb7-9dd9-4c6a50fc65b7)
+
 
 
 
