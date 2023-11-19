@@ -62,6 +62,13 @@ Convergence distance: 1f (змінюється від 0f(float) -> 10f(float)) -
 ![mob4](https://github.com/Vlad-vt/PA1/assets/65038865/3b5f33f2-0cb8-4e6a-97c6-80e124b47d18)
 ![mob5](https://github.com/Vlad-vt/PA1/assets/65038865/f378a31d-9db7-4fb7-9dd9-4c6a50fc65b7)
 
+<div align="center">
+
+**Результат роботи програми використовая анагліфні окуляри**
+
+</div>
+
+
 
 
 
