@@ -55,3 +55,12 @@ Convergence distance: 1f (змінюється від 0f(float) -> 10f(float)) -
 **Результат роботи програми на телефоні**
 
 </div>
+
+![mob1](https://github.com/Vlad-vt/PA1/assets/65038865/8484018f-cbc9-401b-90a8-53125d7c8024)
+![mob2](https://github.com/Vlad-vt/PA1/assets/65038865/c4f35aed-9e8b-4406-b2d5-8fccf7742dfd)
+![mob3](https://github.com/Vlad-vt/PA1/assets/65038865/9a3dd023-5aaf-4165-a94f-e8bf1cec41a9)
+![mob4](https://github.com/Vlad-vt/PA1/assets/65038865/4b7e6ee8-c86f-4f34-9f88-cdf77023993d)
+![mob5](https://github.com/Vlad-vt/PA1/assets/65038865/64432bf2-e30d-4b64-b72d-acbb73936afd)
+
+
+
