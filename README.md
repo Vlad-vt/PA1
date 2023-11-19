@@ -20,7 +20,7 @@
 </div>
 
 
-_Я візуалізував 5 об'єктів: Куб, сфера, капсула, corrugated sphere with texture та corrugated sphere без текстури_
+_Я візуалізував 5 об'єктів: Куб, сфера, капсула, corrugated sphere with texture, corrugated sphere без текстури_
 
 
 Eye separation: 1f (змінюється від 0f(float) -> 5f(float)) - Визначає відстань між очима у ефекті анагліфа 
