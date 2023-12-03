@@ -12,9 +12,8 @@
 ![image](https://github.com/Vlad-vt/PA1/assets/65038865/5aa5fc87-6c2a-44cf-ac02-30e913380b0c)
 Натисніть кнопку на "Run tool" і програма запуститься
 ![image](https://github.com/Vlad-vt/PA1/assets/65038865/fc8407a3-30e4-42ad-becd-9276440e22a1)
-![image](https://github.com/Vlad-vt/PA1/assets/65038865/9e398e95-a7c4-4cdc-a23b-a933bb2d0f11)
-<div align="center">
 ![image](https://github.com/Vlad-vt/PA1/assets/65038865/416d4d48-26ff-4a27-8254-ceb65e8744d3)
+<div align="center">
 
 **Стартові параметри для даної лабораторної роботи такі:**
 
